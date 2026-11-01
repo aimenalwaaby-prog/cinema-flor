@@ -1,0 +1,23 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+# Android / Gradle
+.gradle/
+android/.gradle/
+android/local.properties
+android/captures/
+android/key.properties
+# IDE / OS
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+# Logs and crash dumps
+*.log
+hs_err_pid*
+replay_pid*
